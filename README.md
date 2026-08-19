@@ -1,4 +1,4 @@
-# Hi there 👋, Welcome!!
+# Hi there, Welcome!! ☀️
 
 Hello!! My name is **Kavin Klien Quinto**. I am a BS Computer Science student at the **Polytechnic University of the Philippines - Manila**.
 
