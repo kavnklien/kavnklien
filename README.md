@@ -1,23 +1,11 @@
-# Hi there, Welcome!! ☀️
+# Hello, I'm Kav!! ☀️
 
-Hello!! My name is **Kavin Klien Quinto**. I am a BS Computer Science student at the **Polytechnic University of the Philippines - Manila**.
+Currently studying BS Computer Science at the Polytechnic University of the Philippines.
 
-Aspiring **Software Engineer** focused on web development, clean code, and building practical applications. Always eager to learn and explore new technologies.
+*A collection of things along the way.*
 
----
+This profile is a collection of the things I learn, create, experiment with, and occasionally get stuck on. Some projects may be simple, while others may start as ideas I simply wanted to try. Either way, they are all part of learning along the way.
 
-### Education & Background
-- **University:** Polytechnic University of the Philippines - Manila
-- **Degree:** BS Computer Science
-- **Location:** Metro Manila, Philippines
+There is always something new to figure out, something to improve, or something to try differently. I keep the process here from small experiments to things that are still a work in progress.
 
----
-
-### What I'm Up To
- **Currently Working On:** Web applications and software tools
-- **Currently Learning:** Full Stack Web Development, Artificial Intelligence & Robotics
-
----
-
-### Connect With Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quintokavinklienjuntilla@gmail.com)
+✨ **Still learning. Still exploring.** ✨
